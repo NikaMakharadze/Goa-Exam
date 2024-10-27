@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff:wght@400..700&family=Noto+Sans+Georgian:wght@100..900&display=swap');
+
+#goa {
+    font-family: "DynaPuff", serif;
+    text-align: center;
+}
+
+#about_txt {
+    text-align: center;
+    text-decoration-style: solid ;
+    text-decoration-line: underline;
+    font-family: "Noto Sans Georgian", sans-serif;
+    text-justify: auto;
+}
+
+#interested {
+    text-align: center;
+    font-size: 35px;
+    font-family: "Noto Sans Georgina", sans-serif;
+}
+
+.home_video {
+    text-align: center;
+}
+
+#content_txt {
+    text-align: center;
+    font-family: "Noto Sans Georgian", sans-serif;
+    font-size: 30px;
+}
+
+.contact_video {
+    text-align: center;
+}
+
+#hackathon {
+    text-align: left;
+    margin-left: 30%;
+}
+
+#goa_land {
+    text-align: right;
+    margin-right: 30%;;
+}
+
+.about_img {
+    text-align: center;
+}
