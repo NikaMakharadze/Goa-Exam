@@ -1,0 +1,24 @@
+h1, h3, h2, .top_books, nav {
+    text-align: center;
+}
+
+form {
+    text-align: center;
+}
+
+.shop {
+    text-align: center;
+}
+
+a {
+    transition: color 0.3s;
+    text-decoration: none;
+}
+a:hover {
+    color: aqua;
+    text-decoration: underline;
+}
+
+a:active {
+    color: red;
+}
